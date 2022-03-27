@@ -1,7 +1,28 @@
 body{
     box-sizing: border-box;
+    text-align: center;
 }
 
 img{
     width: 37%;
+}
+
+
+h1{
+    font-size: 70px;
+    margin-bottom: 0;
+}
+
+
+button{
+    margin: 15px;
+    padding: 20px 60px;
+    border-radius: 3px;
+   
+
+}
+
+button:hover{
+    cursor: pointer;
+    color: teal;
 }
