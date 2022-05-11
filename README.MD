@@ -14,9 +14,9 @@ I created a picture zoom app. When the closer button is click a picture changes 
 
 ## Lessons Learned:
 
-- I learned how to add create elements in JS and add them to the dom.
-- Adding event listens using arrow functions
-- How to clear the dom! 
+- I learned how to add create elements in JS and add them to the DOM.
+- Adding event listeners with arrow functions
+- How to clear the DOM in JS! 
 
 
 ## Optimizations & Future Work:
